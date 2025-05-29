@@ -54,5 +54,9 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Taniya0613/Taniya0613/blob/output/github-contribution-grid-snake.gif)
+
+---
 
 💬 **Let’s connect and create something amazing!**
